@@ -1,0 +1,29 @@
+{
+  "name": "voice-engine-js",
+  "version": "0.0.0",
+  "description": "Voice Engine JS core library for voice interface applications",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/voice-engine-js/voice-engine-js.git"
+  },
+  "keywords": [
+    "engine",
+    "keyword",
+    "speech",
+    "spotting",
+    "streams",
+    "text",
+    "voice"
+  ],
+  "author": "Thomas Bergwinkl <bergi@axolotlfarm.org> (https://www.bergnet.org/people/bergi/card#me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/voice-engine-js/voice-engine-js/issues"
+  },
+  "homepage": "https://github.com/voice-engine-js/voice-engine-js",
+  "dependencies": {
+    "wav": "^1.0.1",
+    "which": "^1.3.0"
+  }
+}
